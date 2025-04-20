@@ -1,6 +1,6 @@
 # 💻 KB IT's Your Life - Coding Test Coach (2025.04 - 2025.07)
 
-As a Coding Test Coach, I guided students through **problem-solving (PS) techniques and coding interview preparation**.  
+As a Coding Test Coach, I guided students through **problem-solving (PS) techniques**.  
 I held **weekly Q&A sessions** and led **problem-solving practice using Java**, focusing on enhancing coding skills and algorithmic thinking.  
 
 
