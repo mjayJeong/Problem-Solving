@@ -20,4 +20,4 @@ I held **weekly Q&A sessions** and led **problem-solving practice using Java**, 
 
 ---
 
-Feel free to reach out for more details or any questions!
+Feel free to reach out for more details or any questions! 
