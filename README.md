@@ -1,2 +1,2 @@
 # Problem-Solving
-Problem Solving (Baekjoon, Programmers, etc...)
+Problem Solving (Baekjoon, Programmers, Leetcode etc...)
