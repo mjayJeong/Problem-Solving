@@ -18,6 +18,3 @@ I held **weekly Q&A sessions** and led **problem-solving practice using Java**, 
 | Week 9   | 6/27   | Practical Problem Solving (2)                 |
 | Week 10  | 7/4    | Final Test                              |
 
----
-
-Feel free to reach out for more details or any questions! 
