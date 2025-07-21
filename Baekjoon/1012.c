@@ -27,8 +27,6 @@ int dfs(int x, int y)
 	return 0;
 }
 
-
-
 int main()
 {
 	int T, k, x, y, cnt;
