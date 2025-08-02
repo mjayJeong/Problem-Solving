@@ -15,6 +15,7 @@ int solution(vector<int> scoville, int K) {
     
     // 2. 연산
     while (minHeap.top() < K) {
+        // 예외 처리 해야함
         if (minHeap.size() <= 1) {
             return -1;
         }
