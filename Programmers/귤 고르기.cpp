@@ -7,12 +7,13 @@ using namespace std;
 
 int solution(int k, vector<int> tangerine) {
     int answer = 0;
-    vector<int> cnt(100000001, 0);
-    int max_value = 0;
+    int max_value = *max_element(tangerine.begin(), tangerine.end());
+    
+    vector<int> cnt(max_value + 1, 0);
+    
     // 카운팅 배열에 각 숫자 개수 저장
     for (int i = 0; i < tangerine.size(); i++) {
         cnt[tangerine[i]]++;
-        max_value = max(max_value, tangerine[i]);
     }
     
     // pq에 개수 많은 순으로 저장
